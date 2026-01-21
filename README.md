@@ -1,7 +1,7 @@
 # login-app_1
 
 ##==##==##==##==##==##==##==##==##==##==##==##==##==##==##==##==##==##==##==##==##==##==##==##==##==##==##==##==##==##==##==##==##==##==##==##==##==##==##==##==##==##==##==##==##==##==##
-A learning project demonstrating PHP authentication fundamentals: database connection, signup &amp; login processing, session-based access control, and modern styling with Tailwind CSS.
+A learning project demonstrating PHP authentication fundamentals: database connection, signup and login processing, session-based access control, and modern styling with Tailwind CSS.
 Translate :
 Proyek pembelajaran yang mendemonstrasikan dasar-dasar autentikasi PHP:
 koneksi database, proses pendaftaran dan login, kontrol akses berbasis session, serta tampilan modern menggunakan Tailwind CSS.
